@@ -1,2 +1,2 @@
 # Test execution
-ant test -Dgroups='smoke'
+gradile ant test -Dgroups='regression'
