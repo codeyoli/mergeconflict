@@ -1,0 +1,4 @@
+{
+  "root": "src/java/tests",
+  "test": "src/java/tests/LoginTest.java"
+}
