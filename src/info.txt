@@ -1,2 +1,2 @@
 # Test execution
-ant test -Dgroups='smoke'
+yml ant test -Dgroups='smoke-regrssion'
