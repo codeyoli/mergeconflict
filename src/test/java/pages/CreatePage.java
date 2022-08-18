@@ -2,7 +2,8 @@ package pages;
 
 public class CreatePage {
     public static void main(String[] args) {
-        System.out.println("Hello guys!");
-        System.out.println("This code is from master");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Do something!");
+        }
     }
 }
